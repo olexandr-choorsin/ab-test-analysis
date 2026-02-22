@@ -13,7 +13,7 @@ This project focuses on analyzing A/B test results to identify statistically sig
 ### Dashboard
 You can explore the interactive dashboard here: 
 
-👉 [A/B Test Performance Matrix](https://public.tableau.com/views/ABTestPerformanceMatrix/ABTestPerformanceMatrix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [A/B Test Performance Matrix](https://public.tableau.com/views/ABTestMasteryStatisticalSignificanceAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### How to use
 The Jupyter Notebook (`.ipynb`) contains the full code for data processing and statistical calculations.
